@@ -1,13 +1,15 @@
 # VueJS Chat Webapp
 
+## About Rizz Chat:
+Rizz Chat is a web-based application designed for chatting and direct messaging between friends. With its user-friendly interface, Rizz Chat provides an easy and convenient platform for users to connect with their friends in real-time. The application offers two options for users, login or signup, to access its services.
+
 ## Demo
 
 ### User Intake Flow
+![](https://github.com/Ajmain-Khan/VueJS-Chat-App/blob/master/demo/UserIntake_Demo.gif)
 
 Full Demo: https://drive.google.com/file/d/1PLWHMNS8qAFbkXFiCqiR6TIi25xOQ3nx/view?usp=sharing  <br>
 <!-- # About Vue-Chat-WebApp-->
-## About Rizz Chat:
-Rizz Chat is a web-based application designed for chatting and direct messaging between friends. With its user-friendly interface, Rizz Chat provides an easy and convenient platform for users to connect with their friends in real-time. The application offers two options for users, login or signup, to access its services.
 
 ## Recommended IDE Setup
 
